@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.track-card {
+  margin: 20px;
+  padding: 10px;
+  background-color: rgb(203, 245, 92, 0.3);
+  color: #fff;
+  border: 2px solid rgb(203, 245, 92);
+  border-radius: 7px;
+}
